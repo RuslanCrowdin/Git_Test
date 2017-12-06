@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="identifier_1" comment="Type string's context here">String for translation</string>
+    <string name="identifier_2" comment="Type string's context here">String for translation</string>
+</resources>
