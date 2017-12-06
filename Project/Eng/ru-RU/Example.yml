@@ -1,0 +1,18 @@
+ru:
+  activaterecord:
+    attributes:
+      backer_reward:
+        estimated_delivery_on: Награда предполагаемая дата доставки
+        limit: Награда предел
+        minimum: "Сумма залога:"
+        reward: Описание вознаграждение
+        shipping_preference: Доставка предпочтения
+      blog:
+        comments: Разрешить комментарии
+        created_at: Создан
+        mentions: Разрешить упоминания
+        name: Название
+        published_at: Опубликовано
+        slug: Постоянная ссылка
+        template: Шаблон
+        updated_at: Обновление

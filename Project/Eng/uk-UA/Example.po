@@ -1,0 +1,10 @@
+# You can place some context here
+msgid "String for translation #1"
+msgstr ""
+
+msgid "String for translation #2"
+msgstr ""
+
+msgid "String for translation #3"
+msgstr ""
+

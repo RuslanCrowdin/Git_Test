@@ -1,0 +1,6 @@
+files:
+  - source: /**/Eng/*.*
+    ignore:
+      - /**/Eng/*.csv
+      - /**/Eng/*.xlsx
+    translation: /**/Eng/%locale%/%original_file_name%
