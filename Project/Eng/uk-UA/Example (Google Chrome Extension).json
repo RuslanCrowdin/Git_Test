@@ -8,11 +8,11 @@
     "description": null
   },
   "ask_password_prompt": {
-    "message": "Запитайте про пароль:",
+    "message": "Ask for a password:",
     "description": null
   },
   "show_password_prompt": {
-    "message": "Показувати пароль",
+    "message": "Show password",
     "description": null
   }
 }
