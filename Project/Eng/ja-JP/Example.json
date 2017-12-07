@@ -1,5 +1,5 @@
 {
-    "Key1": "There {NUM_RESULTS, plural, one{is one result} other{are # results}}",
+    "Key1": "{NUM_RESULTS, plural, one{is # res} other{is # res}}",
     "Key2": "ハローワールド",
     "Key3": "元気です"
 }
