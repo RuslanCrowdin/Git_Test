@@ -1,18 +1,18 @@
 {
   "extension_description": {
-    "message": "This extension allows to paste passwords from the application.",
+    "message": "この拡張機能は、アプリケーションからパスワードをペーストすることができます。",
     "description": null
   },
   "options_title": {
-    "message": "Options",
+    "message": "オプション",
     "description": null
   },
   "ask_password_prompt": {
-    "message": "Ask for a password:",
+    "message": "パスワードを求めます。",
     "description": null
   },
   "show_password_prompt": {
-    "message": "Show password",
+    "message": "パスワードを表示します。",
     "description": null
   }
 }
