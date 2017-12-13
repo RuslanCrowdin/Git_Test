@@ -1,4 +1,8 @@
 {
+  "extension_description": {
+    "message": "This extension allows to paste passwords from the application.",
+    "description": null
+  },
   "options_title": {
     "message": "Alternativ",
     "description": null
