@@ -1,14 +1,3 @@
-{
-  "options_title": {
-    "message": "Alternativ",
-    "description": null
-  },
-  "ask_password_prompt": {
-    "message": "Be om ett lösenord:",
-    "description": null
-  },
-  "show_password_prompt": {
-    "message": "Visa lösenord",
-    "description": null
-  }
-}
+[
+
+]
