@@ -1,8 +1,4 @@
 {
-  "extension_description": {
-    "message": "Это расширение позволяет вставить пароли от приложения.",
-    "description": null
-  },
   "options_title": {
     "message": "Параметры",
     "description": null
