@@ -1,3 +1,3 @@
 files:
-  - source: /**/Eng/*.json
+  - source: /**/Eng/Exemple.ini
     translation: /**/Eng/%osx_code%/%original_file_name%
