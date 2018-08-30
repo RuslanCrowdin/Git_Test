@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Translation (this field can be empty when imported to Crowdin)\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: integrationtogithub\n"
+"X-Crowdin-Language: ru-UA\n"
+"X-Crowdin-File: /master/Project/Eng/Example.po\n"
+"Project-Id-Version: integrationtogithub\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: RuslanVovk <ruslan@crowdin.com>\n"
+"Language-Team: Russian, Ukraine\n"
+"Language: ru_UA\n"
+"PO-Revision-Date: 2018-08-30 16:22\n"
+
+# You can place some context here
+msgid "String for translation #1"
+msgstr ""
+
+msgid "String for translation #2"
+msgstr ""
+
+msgid "String for translation #3"
+msgstr ""
+
