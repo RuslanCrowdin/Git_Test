@@ -1,0 +1,14 @@
+{
+  "options_title": {
+    "message": "Параметры",
+    "description": null
+  },
+  "ask_password_prompt": {
+    "message": "Запрос пароля:",
+    "description": null
+  },
+  "show_password_prompt": {
+    "message": "Новый пароль",
+    "description": null
+  }
+}
