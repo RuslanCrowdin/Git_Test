@@ -1,0 +1,18 @@
+en-IN:
+  activaterecord:
+    attributes:
+      backer_reward:
+        estimated_delivery_on: A reward's estimated delivery date
+        limit: A reward's limit
+        minimum: "Pledge amount:"
+        reward: A reward's description
+        shipping_preference: Shipping preference
+      blog:
+        comments: Allow Comments
+        created_at: Created
+        mentions: Allow Mentions
+        name: Title
+        published_at: Published
+        slug: Permalink
+        template: Template
+        updated_at: Updated
