@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="1" source-language="en" datatype="plaintext" target-language="fr">
+    <body>
+      <trans-unit id="1" translate="no">
+        <source xml:lang="en">Source string #1</source>
+        <target xml:lang="fr" state="needs-translation">Source string #1</target>
+      </trans-unit>
+      <trans-unit id="2" translate="no">
+        <source xml:lang="en">Source string #1</source>
+        <target xml:lang="fr" state="needs-translation">Source string #1</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:lang="en">Source string #1</source>
+        <target xml:lang="fr" state="needs-translation">Source string #1</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
