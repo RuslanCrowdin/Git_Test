@@ -1,0 +1,5 @@
+{
+    "Key1": "Det finns {NUM_RESULTS, plural, one{is one result} other{are # results}}",
+    "Key2": "Hej världen",
+    "Key3": "Jag mår bra"
+}
