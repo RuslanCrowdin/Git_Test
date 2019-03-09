@@ -1,5 +1,5 @@
 {
-    "Key1": "There {NUM_RESULTS, plural, one{is one result} other{are # results}}",
-    "Key2": "Hello World",
-    "Key3": "I'm fine"
+    "Key1": "Там {NUM_RESULTS, plural, one{є # результат} other{ є # результатів}}",
+    "Key2": "",
+    "Key3": ""
 }

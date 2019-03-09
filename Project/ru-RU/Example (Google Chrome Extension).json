@@ -1,18 +1,6 @@
 {
-  "extension_description": {
-    "message": "This extension allows to paste passwords from the application.",
-    "description": null
-  },
   "options_title": {
-    "message": "Options",
-    "description": null
-  },
-  "ask_password_prompt": {
-    "message": "Ask for a password:",
-    "description": null
-  },
-  "show_password_prompt": {
-    "message": "Show password",
+    "message": "Параметры",
     "description": null
   }
 }

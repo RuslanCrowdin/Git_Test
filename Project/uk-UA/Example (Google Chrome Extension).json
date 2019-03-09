@@ -1,18 +1,18 @@
 {
   "extension_description": {
-    "message": "This extension allows to paste passwords from the application.",
+    "message": "Це розширення надає змогу вставити паролі з застосунку.",
     "description": null
   },
   "options_title": {
-    "message": "Options",
+    "message": "Параметри",
     "description": null
   },
   "ask_password_prompt": {
-    "message": "Ask for a password:",
+    "message": "Запитайте про пароль:",
     "description": null
   },
   "show_password_prompt": {
-    "message": "Show password",
+    "message": "Показувати пароль",
     "description": null
   }
 }
